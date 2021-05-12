@@ -20,7 +20,30 @@
 
 <body>
 <!-- <embed src="http://p3qhnc0eg.bkt.clouddn.com/U%20are%20so%20beautiful.mp3" width="0" height="0" loop="-1" autostart="true"> </embed> -->
-<embed src="<audio src='lovebgm.mp3'></audio>" width="0" height="0" loop="-1" autostart="true"> </embed>
+<!-- <embed src="<audio src='lovebgm.mp3'></audio>" width="0" height="0" loop="-1" autostart="true"> </embed> -->
+
+<audio id="music" preload loop="loop" autoplay src='https://link.jscdn.cn/sharepoint/aHR0cHM6Ly8xZHJpdi1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9zdG9yXzFkcml2X29ubWljcm9zb2Z0X2NvbS9FZnVSam5kOGdCQkt2LUEwSE9ZNTJaWUJLZjV2enRaTFRNN1pUb0J1RlNEUXd3.mp3'></audio>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript">
+function autoPlayVideo(){
+   wx.config({
+         debug:false,
+         appId:"",
+         timestamp:1,
+         nonceStr:"",
+         signature:"",
+         jsApiList:[]
+     });
+     wx.ready(function(){
+         var autoplayVideo = document.getElementById("music");
+         autoplayVideo.play()
+     })
+ };
+ autoPlayVideo();
+</script>
+
+
+
 
 
 <div id="mainDiv">
