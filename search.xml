@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>PaperRecord</title>
+      <link href="gets/1319948a/"/>
+      <url>gets/1319948a/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-PaperRecord"><a href="#1-PaperRecord" class="headerlink" title="1. PaperRecord"></a>1. PaperRecord</h2><h3 id="1-1-🍇-机器学习对PSA“灰区”前列腺癌的预测价值研究"><a href="#1-1-🍇-机器学习对PSA“灰区”前列腺癌的预测价值研究" class="headerlink" title="1.1. 🍇 机器学习对PSA“灰区”前列腺癌的预测价值研究"></a>1.1. 🍇 机器学习对PSA“灰区”前列腺癌的预测价值研究</h3><h4 id="1-1-1-研究意义"><a href="#1-1-1-研究意义" class="headerlink" title="1.1.1. 研究意义"></a>1.1.1. 研究意义</h4><blockquote><p>  前列腺癌居恶性肿瘤导致男性死亡的第２位随着人民生活质量提高和人口老龄化，我国前列腺癌发病率呈上升趋势，前列腺癌的发病率在不同国家和地区分布明显不同，北美地区如美国高达95.1/10万，中国和日本较低，为1.08/10万和8.51/10万,西非和中美洲则分别为23.85/10万和24.77/10万。近二十年来亚洲地区前列腺癌的发病率快速增加，且增长速度比西方国家更快。尽管在我国前列腺癌发病率相对较低，但随着人们生活水平的提高、膳食结构的改变、男性平均寿命的延长以及临床检查方法的改进，前列腺癌的发病年龄日趋年轻化，其发病率也快速攀升，不断上升的发病率使前列腺癌的早期诊断成为研究者关注的焦点。<br>  临床上，PSA 取值4.0-10.0ng/mL被称为“灰区”，参照2019年中国泌尿外科疾病诊断治疗指南和中国前列腺癌联盟调查报告的数据，此区间患者 PCA 的阳性率为 15.9-26.0%为提高 PSA 在此区间预测 PCA的诊断价值，游离前列腺特异性抗原/总前列腺特异性抗原（free/total PSA，f/t PSA）<br>、前列腺特异性抗原密度（Prostate-specific antigen density，PSAD）、前列腺特异性抗原速率（PSA velocity，PSAV）等 PSA 衍生指标已经广泛应用临床。然而，PSAV 的诊断价值需要连续至少需要 24 个月内3 次 PSA 的检测结果，其正常值为每年＜0.75ng/ml，但是许多非前列腺癌因素会影响血清 PSA 浓度，从而导致漏诊或不必要的活检。某些情况下，PSA 或衍生物并不能有效区分前列腺癌和前列腺增生（BenignProstate Hyperplasia，BPH），这与严重的炎症可能会影响PSA 在血液中的水平有关。<br>  通过机器学习的方法可以从前列腺癌数据集中发现和总结前列腺癌的临床表现、发展规律、各种治疗方案的疗效、以及与其他疾病的相互关系，这对于前列腺癌的诊断治疗都有非常重要的借鉴和指导意义。</p></blockquote><h4 id="1-1-2-研究步骤"><a href="#1-1-2-研究步骤" class="headerlink" title="1.1.2. 研究步骤"></a>1.1.2. 研究步骤</h4><blockquote><p>1、获取前列腺癌临床数据<br>2、建立随机森林、神经网络、支持向量机模型并与传统机器学习Logistic模型比较</p></blockquote><h4 id="1-1-3-研究目标"><a href="#1-1-3-研究目标" class="headerlink" title="1.1.3. 研究目标"></a>1.1.3. 研究目标</h4><blockquote><p>构建PSA“灰区”前列腺癌预测模型，指导临床决策。</p></blockquote><h4 id="1-1-4-拟解决的关键问题"><a href="#1-1-4-拟解决的关键问题" class="headerlink" title="1.1.4. 拟解决的关键问题"></a>1.1.4. 拟解决的关键问题</h4><blockquote><ol><li>临床数据收集难度偏大</li><li>预估临床数据样本量偏小</li><li>模型建立的参数调整</li></ol></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Paper </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Website</title>
       <link href="gets/29ab9be1/"/>
       <url>gets/29ab9be1/</url>
@@ -34,25 +53,6 @@
         <tags>
             
             <tag> Videos </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>PaperRecord</title>
-      <link href="gets/1319948a/"/>
-      <url>gets/1319948a/</url>
-      
-        <content type="html"><![CDATA[<h2 id="1-PaperRecord"><a href="#1-PaperRecord" class="headerlink" title="1. PaperRecord"></a>1. PaperRecord</h2><h3 id="1-1-🍇-BP神经网络对PSA灰区前列腺癌的预测价值"><a href="#1-1-🍇-BP神经网络对PSA灰区前列腺癌的预测价值" class="headerlink" title="1.1. 🍇 BP神经网络对PSA灰区前列腺癌的预测价值"></a>1.1. 🍇 BP神经网络对PSA灰区前列腺癌的预测价值</h3><h4 id="1-1-1-研究意义"><a href="#1-1-1-研究意义" class="headerlink" title="1.1.1. 研究意义"></a>1.1.1. 研究意义</h4><blockquote><p>查看文献可知, 对灰区PSA穿刺的患者, 穿刺阳性率仅约26%，通过Bp神经网络构建机器学习模型对处于灰区PSA前列腺癌进行预测, 减少不必要的穿刺。</p></blockquote><h4 id="1-1-2-数据资料"><a href="#1-1-2-数据资料" class="headerlink" title="1.1.2. 数据资料"></a>1.1.2. 数据资料</h4><blockquote><p>病人年龄, tPSA, fPSA, 前列腺体积, 影像学数据</p></blockquote><h4 id="1-1-3-实验方法"><a href="#1-1-3-实验方法" class="headerlink" title="1.1.3. 实验方法"></a>1.1.3. 实验方法</h4><blockquote><p>构建BP神经网络模型, 对灰区PSA前列腺癌进行分析</p></blockquote><h4 id="1-1-4-实验观察指标"><a href="#1-1-4-实验观察指标" class="headerlink" title="1.1.4. 实验观察指标"></a>1.1.4. 实验观察指标</h4><blockquote><p>受试者工作曲线(ROC)</p></blockquote><h4 id="1-1-5-待解决问题"><a href="#1-1-5-待解决问题" class="headerlink" title="1.1.5. 待解决问题"></a>1.1.5. 待解决问题</h4><blockquote><ol><li>数据的收集, 特别是影像学数据的收集, 许源老师的平台不能导出前列腺癌影像学数据</li><li>机器学习知识</li><li>统计学知识</li><li>文献阅读数量不足</li></ol></blockquote>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Paper </tag>
             
         </tags>
       
